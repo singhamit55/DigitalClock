@@ -1,1 +1,2 @@
-Live Preview: https://di-gi-tal-clock.netlify.app/
+Live Preview: httpsdigitalclock.netlify.app
+
